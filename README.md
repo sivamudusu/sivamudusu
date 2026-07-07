@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=920&lines=Hey+there%2C+I%27m+Ashutosh+%F0%9F%91%8B;Cloud+Platform+Engineer+%7C+DevOps+Engineer;Building+Reliable%2C+Scalable%2C+Secure+Infrastructure;IaC+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Observability)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=920&lines=Hey+there%2C+I%27m+Sivaiah+%F0%9F%91%8B;Full+Stack+%7C+DevOps+Engineer;Building+Reliable%2C+Scalable%2C+Secure+Infrastructure;IaC+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Observability)](https://git.io/typing-svg)
 
 <br/>
 </div>
