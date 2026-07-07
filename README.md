@@ -1,6 +1,10 @@
-## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+Reliable%2C+Scalable+Infrastructure;DevOps+%7C+Cloud+%7C+Linux)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=920&lines=Hey+there%2C+I%27m+Ashutosh+%F0%9F%91%8B;Cloud+Platform+Engineer+%7C+DevOps+Engineer;Building+Reliable%2C+Scalable%2C+Secure+Infrastructure;IaC+%C2%B7+Kubernetes+%C2%B7+AWS+%C2%B7+Observability)](https://git.io/typing-svg)
+
+<br/>
+</div>
 
 <!--
 **sivamudusu/sivamudusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
